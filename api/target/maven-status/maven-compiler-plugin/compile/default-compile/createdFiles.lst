@@ -1,0 +1,6 @@
+org/openmrs/module/backendtask/BackendtaskActivator.class
+org/openmrs/module/backendtask/api/BackendtaskService.class
+org/openmrs/module/backendtask/BackendtaskConfig.class
+org/openmrs/module/backendtask/api/impl/BackendtaskServiceImpl.class
+org/openmrs/module/backendtask/Item.class
+org/openmrs/module/backendtask/api/dao/BackendtaskDao.class
